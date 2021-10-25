@@ -13,4 +13,4 @@ Here is what I working on:
 - ⚡ Fun fact: ..."Oops!Sorry I forgot!"
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.ap!?username=ChamodiePubudini&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChamodiePubudini&theme=radical)
