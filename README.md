@@ -11,6 +11,5 @@ Here is what I working on:
 - 📫 How to reach me: ...[Facebook](https://www.facebook.com/chamodie.pubudini/)
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ..."Oops!Sorry I forgot!"
--->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChamodiePubudini&theme=radical)
