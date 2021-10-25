@@ -12,3 +12,5 @@ Here is what I working on:
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ..."Oops!Sorry I forgot!"
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.ap!?username=ChamodiePubudini&theme=radical)
