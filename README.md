@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ChamodiePubudini/ChamodiePubudini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here is what I working on:
 
 - 🔭 I’m currently an undergraduate at NSBM Green University...
 - 🌱 I’m currently learning JAVA ...
